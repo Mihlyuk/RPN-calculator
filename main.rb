@@ -1,7 +1,8 @@
-require ('./calculator.rb')
-require('colored')
+require_relative './calculator.rb'
+require 'colored'
+require 'sinatra'
 
-loop do
+get '/' do
   system 'clear'
   puts ('Input expression: ')
 
