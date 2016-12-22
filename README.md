@@ -1,4 +1,4 @@
-# RPN_calculator
+# Reverse polish notation calculator
 
 Calculator that can count in reverse polish notation. An example of the calculator:
 
