@@ -28,4 +28,7 @@ The essence of the last operation is that it should reset the specified number o
 # => 80
 ```
 
+Example
+-------
+
 ![demo](example.gif)
